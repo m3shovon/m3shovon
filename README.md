@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
       <br>MySQL
     </td>
     <td align="center">
-      <img alt="burpsuite" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg">
+      <img alt="burpsuite" height=64px src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png">
       <br>Burp Suite
     </td>
   </tr>

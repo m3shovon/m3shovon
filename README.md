@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center">
       <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <br>React Native
+      <br>Native
     </td>
     <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
@@ -91,8 +91,8 @@ You can click the Preview link to take a look at your changes.
       <br>Solidity
     </td>
     <td align="center">
-      <img alt="burpsuite" height=64px src="https://github.com/0xCyberY/Burp-Suite/blob/master/burpsuite.png">
 <!--       <img alt="burpsuite" height=64px src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png"> -->
+      <img alt="burpsuite" height=64px src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
       <br>Burp Suite
     </td>
   </tr>

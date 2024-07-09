@@ -75,8 +75,8 @@ You can click the Preview link to take a look at your changes.
       <br>AWS
     </td>
     <td align="center">
-      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <br>Linux
+      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg">
+      <br>Script
     </td>
     <td align="center">
       <img alt="kali-linux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">

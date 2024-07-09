@@ -51,8 +51,12 @@ You can click the Preview link to take a look at your changes.
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
-
+    <td align="center">
+      <img alt="burpsuite" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg">
+      <br>Burp Suite
+    </td>
   </tr>
+  
   <tr>
     <td align="center">
       <img alt="php" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">

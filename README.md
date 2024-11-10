@@ -97,8 +97,10 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
-<!---
-![Github stats](https://github-readme-stats.vercel.app/api?username=shovon-mufrid&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shovon-mufrid&layout=compact)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=m3shovon&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=m3shovon&layout=compact)
 ## My Repos
---->
+
+[![sajib-notes](https://github-readme-stats.vercel.app/api/pin/?username=m3shovon&repo=Dynamix&show_owner=true)](https://github.com/m3shovon/Dynamix)
+[![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=m3shovon&repo=Q-Commerce_Cloud-Kitchen&show_owner=true)](https://github.com/m3shovon/Q-Commerce_Cloud-Kitchen)

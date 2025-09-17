@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=m3shovon&layout=compact)
 ## My Repos
 
-[![Event-SaaS-Platform](https://github-readme-stats.vercel.app/api/pin/?username=m3shovon&repo=Dynamix&show_owner=true)]([https://github.com/m3shovon/Dynamix](https://github.com/m3shovon/Event-SaaS-Platform))
+[![Event-SaaS-Platform](https://github-readme-stats.vercel.app/api/pin/?username=m3shovon&repo=Event-SaaS-Platform&show_owner=true)](https://github.com/m3shovon/Event-SaaS-Platform)
 [![Q-Commerce_Cloud-Kitchen](https://github-readme-stats.vercel.app/api/pin/?username=m3shovon&repo=Q-Commerce_Cloud-Kitchen&show_owner=true)](https://github.com/m3shovon/Q-Commerce_Cloud-Kitchen)
 [![FOODIES-Blog](https://github-readme-stats.vercel.app/api/pin/?username=m3shovon&repo=FOODIES-Blog&show_owner=true)](https://github.com/m3shovon/FOODIES-Blog)
 [![Dhor-Halare](https://github-readme-stats.vercel.app/api/pin/?username=m3shovon&repo=Dhor-Halare&show_owner=true)](https://github.com/m3shovon/Dhor-Halare)
